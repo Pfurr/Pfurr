@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pietro</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-<h3 align="center">Connect with me: <a href="mailto:job.me79@gmail.com ">job.me79@gmail.com</a></h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pfurr&label=Profile%20views&color=0e75b6&style=flat" alt="pfurr" /> </p>
 
